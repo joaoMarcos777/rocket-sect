@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/images/padlock.svg.svg" width="140px" />
+  <img src="/images/padlock.svg" width="140px" />
 </p>
 
 <h1 align="center">Rocket.sect</h1>
